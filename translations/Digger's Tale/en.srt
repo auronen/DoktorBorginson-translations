@@ -770,3 +770,7 @@ Get out of here
 00:08:45,257 --> 00:08:50,055
 before your mumbling attracts those damn minecrawlers to us!
 
+194
+00:08:50,055 --> 00:09:00,055
+(space for translator credits, e.g. "Translator: Translator from the Translator Group")
+
