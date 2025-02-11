@@ -770,3 +770,6 @@ Jazda mi stąd
 00:08:45,257 --> 00:08:50,055
 bo jeszcze ściągniesz na nas jakieś pełzacze tą paplaniną!
 
+194
+00:08:50,055 --> 00:09:00,055
+(miejsce na creditsy tłumaczy, e.g. "Tłumaczenie: Tłumacz z Grupy Tłumaczy")
